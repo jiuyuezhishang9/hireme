@@ -1,2 +1,2 @@
-# hireme.github.com
+# hireme
 online resume
